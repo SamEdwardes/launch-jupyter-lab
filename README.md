@@ -26,7 +26,6 @@ Then export the script as an application.
 
 Edit the icon of the application if you wish and drag to dock.
 
-TBD
 
 ## Reference
 
